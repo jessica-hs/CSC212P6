@@ -11,5 +11,6 @@ package edu.smith.cs.csc212.p6.errors;
 public class EmptyListError extends RuntimeException {
 	public EmptyListError() {
 		super("EmptyListError");
+		
 	}
 }

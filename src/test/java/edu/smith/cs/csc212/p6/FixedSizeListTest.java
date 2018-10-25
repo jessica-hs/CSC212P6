@@ -88,6 +88,7 @@ public class FixedSizeListTest {
 		data.addBack("b");
 		data.addBack("c");
 		data.addBack("d");
+		//System.out.println(data);
 		return data;
 	}
 	
